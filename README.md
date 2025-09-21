@@ -1,14 +1,35 @@
-# Math Scrap → Lesson Web App
+# MathXyz 📸➡️📚
 
-A full-stack application that converts handwritten math images into structured lessons with explanations.
+<div align="center">
+  <img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" alt="Confused math student" width="400"/>
+  <br>
+  <em>Me trying to understand what the professor just wrote</em>
+</div>
+
+
+## The Struggle is Real 😅
+
+You know that feeling when:
+- Professor writes hieroglyphics on the board ✍️🔮
+- You frantically take photos hoping they'll make sense later 📸📸📸
+- You get home and stare at blurry math pics like you're decoding ancient scrolls 🗞️🔍
+- *"What does this even mean???"* 😵‍💫
+
+**MathXyz to the rescue!** 🦸‍♂️ Turn those mysterious math photos into actual lessons that make sense.
 
 ## Features
 
-- **Multi-image upload** with optional tagging
-- **OCR processing** using local LaTeX-OCR with Mathpix API fallback
-- **Symbolic validation** with SymPy
-- **LLM-powered explanations** using Nemotron via OpenRouter 
-- **Interactive lesson viewer** with KaTeX math rendering
+- **Multi-image upload** with optional tagging (because chaos needs organization)
+- **OCR processing** using local LaTeX-OCR with Mathpix API fallback (we read the unreadable)
+- **Symbolic validation** with SymPy (making sure math is actually math)
+- **LLM-powered explanations** using Nemotron via OpenRouter (your personal math tutor)
+- **Interactive lesson viewer** with KaTeX math rendering (pretty equations that actually work)
+
+## Coming Soon™ 🚀
+
+- **Notion integration** - Sync your lessons directly to your study workspace
+- **Audio transcription** - Record lectures and get synchronized text with your photos
+- **Enhanced OCR** - Even better at reading your professor's handwriting (yes, even Dr. Smith's)
 
 ## Project Structure
 
